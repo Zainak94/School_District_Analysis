@@ -23,8 +23,8 @@ How does replacing the ninth-grade scores affect the following:
 Math and reading scores by grade
 
 Scores by school spending
-![School_District_Analysis](https://github.com/Zainak94/School_District_Analysis/blob/main/Resources/Per_School_capita_1.PNG)
-![School_District_Analysis](https://github.com/Zainak94/School_District_Analysis/blob/main/Resources/Per_School_capita_2.PNG)
+![School_District_Analysis](https://github.com/Zainak94/School_District_Analysis/blob/main/Resources/Per_School_capita%201.PNG)
+![School_District_Analysis](https://github.com/Zainak94/School_District_Analysis/blob/main/Resources/Per_School_capita%202.PNG)
 
 Scores by school size and type
 Scores by school capital is measured by per_school_capita.Overall passing percentage has dropped by 25%. Passing math, reading and overall passing percentage has changed.  Thomas high school is still remains a charter even with a huge drop by 25%. Passing reading has dropped by 7%. Passing math has difference by very small amount.
