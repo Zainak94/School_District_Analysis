@@ -6,6 +6,7 @@ Purpose of this analysis was to help our friend Maria. Apparently, the student_c
 ## Results: Using bulleted lists and images of DataFrames as support, address the following questions.
 
 How is the district summary affected?
+
 There hasn't been any major change in district summary, it does secrease the passing percentage by a very small amount. 
 
 Passing math grade and passing reading grades are the same as previous district summary. 
@@ -14,12 +15,15 @@ Passing math grade and passing reading grades are the same as previous district 
 ![School_District_Analysis](https://github.com/Zainak94/School_District_Analysis/blob/main/Resources/District_summary_2.PNG)
 
 How is the school summary affected?
+
 The school summary is effected in the data row for Thomas High School. The reading and math score percent seems to be high before for Thomas High School and after our analysis they have a significant drop. 
 
 How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+
 Replacing the nine graders reading and math scores have caused Thomes high school performance to drop. Both reading%, math% and overall percent is all dropped. 
 
 How does replacing the ninth-grade scores affect the following:
+
 Math and reading scores by grade
 
 Scores by school spending
@@ -27,6 +31,7 @@ Scores by school spending
 ![School_District_Analysis](https://github.com/Zainak94/School_District_Analysis/blob/main/Resources/Per_school_capita%202.PNG)
 
 Scores by school size and type
+
 Scores by school capital is measured by per_school_capita.Overall passing percentage has dropped by 25%. Passing math, reading and overall passing percentage has changed.  Thomas high school is still remains a charter even with a huge drop by 25%. Passing reading has dropped by 7%. Passing math has difference by very small amount.
 
 ![School_District_Analysis](https://github.com/Zainak94/School_District_Analysis/blob/main/Resources/School_summary_1.PNG)
@@ -34,6 +39,7 @@ Scores by school capital is measured by per_school_capita.Overall passing percen
 ![School_District_Analysis](https://github.com/Zainak94/School_District_Analysis/blob/main/Resources/School_summary_2.PNG)
 
 ## Summary: Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+
 1. Overall there were major dropped in passing reading percent and overall passing percent. 
 2. Reading passing percent has dropped by 7% 
 3. Overall passing percent has dropped by 25% 
