@@ -9,9 +9,10 @@ How is the district summary affected?
 There hasn't been any major change in district summary, it does secrease the passing percentage by a very small amount. 
 
 Passing math grade and passing reading grades are the same as previous district summary. 
-![School_District_Analysis](https://github.com/Zainak94/Election-analysis/blob/master/Election_Results2.PNG)
+![School_District_Analysis](https://github.com/Zainak94/School_District_Analysis/blob/main/Resources/District_summary_1.PNG)
 
-![School_District_Analysis](https://github.com/Zainak94/Election-analysis/blob/master/Election_Results2.PNG)
+![School_District_Analysis](https://github.com/Zainak94/School_District_Analysis/blob/main/Resources/District_summary_2.PNG)
+
 How is the school summary affected?
 The school summary is effected in the data row for Thomas High School. The reading and math score percent seems to be high before for Thomas High School and after our analysis they have a significant drop. 
 
