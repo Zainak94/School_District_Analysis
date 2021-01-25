@@ -29,6 +29,10 @@ Scores by school spending
 Scores by school size and type
 Scores by school capital is measured by per_school_capita.Overall passing percentage has dropped by 25%. Passing math, reading and overall passing percentage has changed.  Thomas high school is still remains a charter even with a huge drop by 25%. Passing reading has dropped by 7%. Passing math has difference by very small amount.
 
+![School_District_Analysis](https://github.com/Zainak94/School_District_Analysis/blob/main/Resources/School_summary_1.PNG)
+
+![School_District_Analysis](https://github.com/Zainak94/School_District_Analysis/blob/main/Resources/School_summary_2.PNG)
+
 ## Summary: Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
 1. Overall there were major dropped in passing reading percent and overall passing percent. 
 2. Reading passing percent has dropped by 7% 
